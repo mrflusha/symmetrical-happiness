@@ -1,1 +1,1 @@
-hell
+print('hell')
