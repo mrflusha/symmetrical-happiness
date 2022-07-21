@@ -4,4 +4,4 @@
 <h1>SOMETHING GREAT </h1>
 
 
-<img src="SS_here" alt = "95c">
+<img src="SS_here.png" alt = "95c">
