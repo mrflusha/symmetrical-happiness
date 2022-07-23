@@ -1,0 +1,11 @@
+Package: refresh-temp
+Version: 1.0
+Maintainer: mrflusha <marv1n.minky@gmail.com>
+Section: python
+Source: https://github.com/mrflusha/symmetrical-happiness
+Architecture: amd64
+Priority: standard
+Depends: lm-sensors
+Recommends: python (>=3.4)
+Description: from conception date in console
+ refresh sensors need lm-sensors
